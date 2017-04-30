@@ -1,2 +1,2 @@
-# hello-world
-マンガでわかるGit 7話実践用
+﻿# hello-world
+マンガでわかるGit 7・8話実践用
